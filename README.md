@@ -45,8 +45,7 @@ Aquí puedes ver otra imagen que acompaña el proceso de carga:
 
 ### Resultados de la Búsqueda
 
-![Resultados de Búsqueda](./Carga%20de%20peliculas%20(2).jpeg)
-
+![Resultados de Búsqueda](./carga_de_peliculas_2.jpeg)
 ## Tecnologías Utilizadas
 
 - **Flutter** para el desarrollo móvil.
