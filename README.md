@@ -12,13 +12,13 @@ Cinemapedia permite a los usuarios buscar cualquier película disponible en TheM
 
 A continuación se muestra la imagen que aparece mientras se cargan los resultados de la búsqueda.
 
-![Cargando](./assets/rose.gif)
+![Cargando](./rose.gif)
 
 ### Imagen adicional de carga
 
 Aquí puedes ver otra imagen que acompaña el proceso de carga:
 
-![Carga de Películas](./assets/Carga%20de%20peliculas.jpeg)
+![Carga de Películas](./Carga%20de%20peliculas.jpeg)
 
 ## Instrucciones para Uso
 
@@ -41,11 +41,11 @@ Aquí puedes ver otra imagen que acompaña el proceso de carga:
 
 ### Pantalla de Búsqueda
 
-![Pantalla de Búsqueda](./assets/pantalla%20de%20Búsqueda.jpeg)
+![Pantalla de Búsqueda](./pantalla%20de%20Búsqueda.jpeg)
 
 ### Resultados de la Búsqueda
 
-![Resultados de Búsqueda](./assets/Carga%20de%20peliculas.jpeg)
+![Resultados de Búsqueda](./Carga%20de%20peliculas.jpeg)
 
 ## Tecnologías Utilizadas
 
