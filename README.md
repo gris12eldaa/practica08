@@ -8,14 +8,6 @@
 
 Cinemapedia permite a los usuarios buscar cualquier película disponible en TheMovieDB, mostrando resultados en tiempo real mientras el usuario escribe. La aplicación utiliza un Debouncer para mejorar la experiencia y optimizar las consultas a la API.
 
-## Funcionalidades
-
-- Búsqueda de películas usando **Search Delegate** de Flutter.
-- Consumo de datos de la API pública **TheMovieDB**.
-- Visualización de los resultados mediante un **Stream**.
-- Optimización del rendimiento con un **Debouncer**.
-- Reutilización de widgets siguiendo el principio **DRY** (Don't Repeat Yourself).
-
 ## Imagen de Carga
 
 A continuación se muestra la imagen que aparece mientras se cargan los resultados de la búsqueda.
@@ -43,11 +35,11 @@ A continuación se muestra la imagen que aparece mientras se cargan los resultad
 
 ### Pantalla de Búsqueda
 
-![Pantalla de Búsqueda](./pantalla de Búsqueda.jpeg)
+![Pantalla de Búsqueda](./pantalla%20de%20Búsqueda.jpeg)
 
 ### Resultados de la Búsqueda
 
-![Resultados de Búsqueda](./image_resultados.png)
+![Resultados de Búsqueda](./Carga%20de%20peliculas.jpeg)
 
 ## Tecnologías Utilizadas
 
