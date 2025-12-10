@@ -43,7 +43,7 @@ A continuación se muestra la imagen que aparece mientras se cargan los resultad
 
 ### Pantalla de Búsqueda
 
-![Pantalla de Búsqueda](./WhatsApp_Image_2025-12-09_at_11.21.53_AM.jpeg)
+![Pantalla de Búsqueda](./pantalla de Búsqueda.jpeg)
 
 ### Resultados de la Búsqueda
 
